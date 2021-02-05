@@ -6,8 +6,8 @@ Deblur
 
 Partecipanti:
 
-Ilaria Palestini 	
-Simone Sanna 				
+Ilaria Palestini, 	
+Simone Sanna, 				
 Kusamdevi Lal				
 
 Il file del progetto è progetto_Deblur_CN.ipynb, la relazione è Progetto_Deblur.pdf
