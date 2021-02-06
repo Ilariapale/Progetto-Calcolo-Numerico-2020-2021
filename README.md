@@ -8,7 +8,7 @@ Partecipanti:
 
 Ilaria Palestini, 	
 Simone Sanna, 				
-Kusamdevi Lal				
+K. Lal				
 
 Il file del progetto è progetto_Deblur_CN.ipynb, la relazione è Progetto_Deblur.pdf
 Per sicurezza abbiamo allegato anche il file py e la cartella con i file del latex relativo al pdf.
